@@ -10,7 +10,7 @@ This portfolio is a creative representation of my skills and experience, designe
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![alt text](https://github.com/MuhammadElham/rhombixtechnologies_tasks/blob/main/ShowCase/Demo%20Image.png?raw=true))
 
 
 ## Documentation
